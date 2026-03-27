@@ -1,5 +1,7 @@
 # Liver Cirrhosis Stage Detection Web App 🩺
 
+**🌐 Live Demo:** [https://liver-cirrhosis-detection.streamlit.app/](https://liver-cirrhosis-detection.streamlit.app/)
+
 An interactive, Machine Learning-powered web application that predicts the stage of liver cirrhosis (Stages 1 through 4) based on a patient's clinical and biochemical data. Built as part of the Unified Mentor Internship Project.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
